@@ -4,14 +4,16 @@ Hi 👋 My name is Aleksei Karzanov
 Software Engineer
 -----------------
 
-Right now I am a 3rd year Computer Science Students, who is passionate about programming. On my GitHub I have most of my projects that can represent my interests and skills.
+Right now I am a 3rd year Computer Science student, who is passionate about programming. On my GitHub I have most of my projects that can represent my interests and skills.
 
-* 🌍  I'm based in Cyprus. But I am open for offers all other the world!
+* 🌍  I'm based in Cyprus. But I am open to offers all over the world!
 * ✉️  You can contact me at [al.karzanov@gmail.com](mailto:al.karzanov@gmail.com)
-* 🧠  Currently I'm learning Backend Python Developing and Machine Learning Deployment.
+* 🧠  Currently I'm learning Backend Python Developing and Machine Learning Deployment. Check some [here](https://github.com/AlexeyKarz/Stock-Price-Analysis)!
 * 👯  I’m looking to collaborate with you on interesting projects and hackathons.
 * 💼  Open for job offers! 
 * 🌐  Preferred languages for communication: 🇬🇧 English, 🇷🇺 Russian, 🇩🇪 German, 🐍 Python.
+
+* ☕  Interesting fact about me: by looking at my profile picture you might have guessed I love coffee! But does why the image look odd? Check it out in [this repo](https://github.com/AlexeyKarz/Python-Projects-Lab/tree/main/image_process_convolution)! I had some fun experimenting with image transformations. 
 
 ### Skills
 
