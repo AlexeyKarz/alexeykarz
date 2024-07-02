@@ -1,18 +1,3 @@
-<!--
-**AlexeyKarz/alexeykarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hi 👋 My name is Aleksei Karzanov
 =================================
 
@@ -21,9 +6,9 @@ Software Engineer
 
 Right now I am a 3rd year Computer Science Students, who is passionate about programming. On my GitHub I have most of my projects that can represent my interests and skills.
 
-* 🌍  I'm based in Cyprus. But I am open for offers all other the world!
-* ✉️  You can contact me at [al.karzanov@gmail.com](mailto:al.karzanov@gmail.com)
-* 🧠  Currently I'm learning Backend Python Developing and Machine Learning Deployment.
+* 🌍  I'm based in Cyprus. But I am open for offers all other the world!
+* ✉️  You can contact me at [al.karzanov@gmail.com](mailto:al.karzanov@gmail.com)
+* 🧠  Currently I'm learning Backend Python Developing and Machine Learning Deployment.
 * 👯  I’m looking to collaborate with you on interesting projects and hackathons.
 * 💼  Open for job offers! 
 * 🌐  Preferred languages for communication: 🇬🇧 English, 🇷🇺 Russian, 🇩🇪 German, 🐍 Python.
