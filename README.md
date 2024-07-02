@@ -45,11 +45,3 @@ Right now I am a 3rd year Computer Science Students, who is passionate about pro
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AlexeyKarz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexeyKarz&stroke=ffffff&background=312e81&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/AlexeyKarz/Stock-Price-Analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyKarz&repo=Stock-Price-Analysis&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/AlexeyKarz/Machine-Learning-Projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyKarz&repo=Machine-Learning-Projects&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/AlexeyKarz/Python-Projects-Lab" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyKarz&repo=Python-Projects-Lab&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en" /></a></div>
