@@ -4,7 +4,7 @@ Hi 👋 My name is Aleksei Karzanov
 Software Engineer
 -----------------
 
-Right now I am a 3rd year Computer Science student, who is passionate about programming. On my GitHub I have most of my projects that can represent my interests and skills.
+I am a Computer Science student currently in my 3rd year, who is passionate about programming. On my GitHub, I have most of my projects that represent my interests and skills.
 
 * 🌍  I'm based in Cyprus. But I am open to offers all over the world!
 * ✉️  You can contact me at [al.karzanov@gmail.com](mailto:al.karzanov@gmail.com)
