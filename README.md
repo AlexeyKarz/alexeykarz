@@ -13,7 +13,7 @@ Right now I am a 3rd year Computer Science student, who is passionate about prog
 * 💼  Open for job offers! 
 * 🌐  Preferred languages for communication: 🇬🇧 English, 🇷🇺 Russian, 🇩🇪 German, 🐍 Python.
 
-* ☕  Interesting fact about me: by looking at my profile picture you might have guessed I love coffee! But does why the image look odd? Check it out in [this repo](https://github.com/AlexeyKarz/Python-Projects-Lab/tree/main/image_process_convolution)! I had some fun experimenting with image transformations. 
+* ☕  Interesting fact about me: by looking at my profile picture you might have guessed I love coffee! But why does the image look odd? Check it out in [this repo](https://github.com/AlexeyKarz/Python-Projects-Lab/tree/main/image_process_convolution)! I had some fun experimenting with image transformations. 
 
 ### Skills
 
