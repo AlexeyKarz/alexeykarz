@@ -27,6 +27,19 @@ I am a Computer Science student currently in my 3rd year, who is passionate abou
 
 <p align="left"> <a href="https://www.github.com/AlexeyKarz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aleksei-karzanov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+
+### Showcase Projects
+
+- #### [Stock Platform Application](https://github.com/AlexeyKarz/Stock-Price-Analysis)
+**Description:** This Flask application provides a comprehensive platform where users can query stock symbols, view historical price data, and receive future price predictions. It integrates a time-series machine learning model to forecast stock prices, offering valuable insights to its users.
+
+- #### [Machine Learning Experiments](https://github.com/AlexeyKarz/Machine-Learning-Projects)
+ **Description:** This repository serves as a central hub for my machine learning projects. It includes a variety of experiments using TensorFlow and other ML modules, showcasing different techniques and approaches in the field of machine learning.
+
+- #### [Python Project Lab](https://github.com/AlexeyKarz/Python-Projects-Lab)
+**Description:** This repository contains projects that cover multiple aspects of Python programming: **Web Development**, **Data Analysis**, **Object-Oriented Programming**, **Python Libraries and Tools** and others.
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
