@@ -1,47 +1,84 @@
-Hi 👋 My name is Aleksei Karzanov
-=================================
+# Hi, I'm Aleksei Karzanov
 
-Software Engineer
------------------
+**Software Engineer focused on backend development, applied AI, and systems-oriented projects.**
 
-I am a Computer Science student currently in my 3rd year, who is passionate about programming. On my GitHub, I have most of my projects that represent my interests and skills.
+I am a Computer Science student with industry experience at Azul Systems, where I worked on vulnerability classification, NIST NVD data, and LLM-based tooling. My current work focuses on Java/Spring Boot, Python, PostgreSQL, machine learning, observability, and practical AI applications.
 
-* 🌍  I'm based in Cyprus. But I am open to offers all over the world!
-* ✉️  You can contact me at [al.karzanov@gmail.com](mailto:al.karzanov@gmail.com)
-* 🧠  Currently I'm learning Backend Python Developing and Machine Learning Deployment. Check some [here](https://github.com/AlexeyKarz/Stock-Price-Analysis)!
-* 👯  I’m looking to collaborate with you on interesting projects and hackathons.
-* 💼  Open for job offers! 
-* 🌐  Preferred languages for communication: 🇬🇧 English, 🇷🇺 Russian, 🇩🇪 German, 🐍 Python.
+Based in Cyprus · Open to software engineering, backend, and applied AI opportunities.
 
-* ☕  Interesting fact about me: by looking at my profile picture you might have guessed I love coffee! But why does the image look odd? Check it out in [this repo](https://github.com/AlexeyKarz/Python-Projects-Lab/tree/main/image_process_convolution)! I had some fun experimenting with image transformations. 
+## Contact
 
-### Skills
+- Email: [al.karzanov@gmail.com](mailto:al.karzanov@gmail.com)
+- LinkedIn: [linkedin.com/in/aleksei-karzanov](https://www.linkedin.com/in/aleksei-karzanov/)
+- GitHub: [github.com/AlexeyKarz](https://github.com/AlexeyKarz) (You probably are here right now)
+
+## Technical Focus
+
+- **Backend:** Java, Spring Boot, Python, Flask, REST APIs
+- **Databases:** PostgreSQL, MySQL
+- **AI / ML:** TensorFlow, Scikit-learn, LLM APIs, embeddings, data pipelines
+- **Systems:** Linux, concurrency, parallel programming, performance-oriented Java
+- **Tools:** Git, GitLab, GitHub, Docker, Jira, Confluence
+
+## Selected Projects
+
+### Multilingual Reading Assistant — Final Year Project
+Comparison of monolith and microservices architectures for a multilingual reading platform.
+
+- EPUB ingestion, segmentation, embeddings, and text alignment pipeline
+- Parallel reading interface with original and translated text
+- Observability using Micrometer, Actuator, and Prometheus
+- Tech: Java, Spring Boot, PostgreSQL, Python scripts
+
+Repositories are currently private and will be published after project presentation (estimated - 12th of June).
+
+---
+
+### Procedural Planet Renderer
+CPU-intensive Java application for experimenting with parallel programming techniques.
+
+- Generates procedural planets using fractal and distance-noise algorithms
+- Produces PNG images and frame sequences for animation
+- Implements sequential and parallel rendering baselines using threads and fork/join
+- Tech: Java, parallel programming, image generation
+
+Repository: [Fractal-Planet-Renderer](https://github.com/AlexeyKarz/Fractal-Planet-Renderer)
+
+---
+
+### Stock Platform Application
+Flask application for querying stock data, visualising historical prices, and generating time-series predictions.
+
+- Integrates ML-based forecasting with a web interface
+- Provides historical price analysis and prediction visualisation
+- Tech: Python, Flask, TensorFlow, React
+
+Repository: [Stock-Price-Analysis](https://github.com/AlexeyKarz/Stock-Price-Analysis)
+
+---
+
+### Python Projects Lab
+Collection of Python projects covering web development, data processing, automation, OOP, and image-processing experiments.
+
+Repository: [Python-Projects-Lab](https://github.com/AlexeyKarz/Python-Projects-Lab)
+
+### AI Language Learning Telegram Bot
+Deployed Telegram bot that sends personalized language-learning lessons generated from real multilingual news and knowledge sources.
+
+  - Supports multiple language profiles with separate levels, topics, schedules, and lesson preferences
+  - Generates structured lessons with target-language text, vocabulary, grammar notes, translations, and follow-up Q&A
+  - Uses RSS/Wiki-based content selection, OpenAI generation, PostgreSQL persistence, and scheduled Telegram delivery
+  - Includes access control, rate limiting, admin tools, CI/CD, Docker deployment, and Hetzner production setup
+  - Built as an AI-assisted development showcase with OpenAI Codex
+
+Tech: Python, FastAPI, python-telegram-bot, PostgreSQL, SQLAlchemy, Alembic, OpenAI API, Docker, GitHub Actions
+
+Repository: [llatab](https://github.com/AlexeyKarz/llatab)
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+## Languages
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/AlexeyKarz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aleksei-karzanov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-
-### Showcase Projects
-
-- #### [Stock Platform Application](https://github.com/AlexeyKarz/Stock-Price-Analysis)
-**Description:** This Flask application provides a comprehensive platform where users can query stock symbols, view historical price data, and receive future price predictions. It integrates a time-series machine learning model to forecast stock prices, offering valuable insights to its users.
-
-- #### [Machine Learning Experiments](https://github.com/AlexeyKarz/Machine-Learning-Projects)
- **Description:** This repository serves as a central hub for my machine learning projects. It includes a variety of experiments using TensorFlow and other ML modules, showcasing different techniques and approaches in the field of machine learning.
-
-- #### [Python Project Lab](https://github.com/AlexeyKarz/Python-Projects-Lab)
-**Description:** This repository contains projects that cover multiple aspects of Python programming: **Web Development**, **Data Analysis**, **Object-Oriented Programming**, **Python Libraries and Tools** and others.
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AlexeyKarz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexeyKarz&stroke=ffffff&background=312e81&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- Russian — Native  
+- English — C1  
+- German — B1 
+- Spanish — A2
